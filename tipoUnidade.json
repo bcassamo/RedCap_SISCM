@@ -1,0 +1,38 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "4",
+        "redcap_label": "Central",
+        "dhis_label": "Hospital Central"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "3",
+        "redcap_label": "Provincial",
+        "dhis_label": "Hospital Provincial"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "3",
+        "redcap_label": "Geral",
+        "dhis_label": "Hospital Geral"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "2",
+        "redcap_label": "Distrital",
+        "dhis_label": "Hospital Distrital"
+    },
+    {
+        "redcap_value":"5",
+        "dhis_value": "2",
+        "redcap_label": "Rural",
+        "dhis_label": "Hospital Rural"
+    },
+    {
+        "redcap_value":"6",
+        "dhis_value": "2",
+        "redcap_label": "Centro de Saude",
+        "dhis_label": "Centro de Saúde"
+    }
+]

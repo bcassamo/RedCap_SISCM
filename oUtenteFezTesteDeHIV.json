@@ -1,0 +1,26 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "rn2Why6XPt1",
+        "redcap_label": "Sim",
+        "dhis_label": "Sim"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "rn2Why6XPt1",
+        "redcap_label": "Nao",
+        "dhis_label": "Não"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "",
+        "redcap_label": "Nao elegivel",
+        "dhis_label": ""
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "",
+        "redcap_label": "Ruptura de Stock",
+        "dhis_label": ""
+    }
+]

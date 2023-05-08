@@ -1,0 +1,32 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "trg6O3kmSSQ",
+        "redcap_label": "Material IEC",
+        "dhis_label": "Material de IEC"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "GM0Pa3GUDex",
+        "redcap_label": "Painel Publicitário",
+        "dhis_label": "Painel Publicitário"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "XNW5ANy8JBP",
+        "redcap_label": "Televisão",
+        "dhis_label": "Televisão"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "Lx5YLhtdhTJ",
+        "redcap_label": "Rádio",
+        "dhis_label": "Radio"
+    },
+    {
+        "redcap_value":"5",
+        "dhis_value": "G8hT5bMJvJE",
+        "redcap_label": "Linha verde",
+        "dhis_label": "Linha Verde"
+    }
+]

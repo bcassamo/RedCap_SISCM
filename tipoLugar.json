@@ -1,0 +1,20 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "b0RGXHLWyg1",
+        "redcap_label": "Fixo",
+        "dhis_label": "Fixo"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "MIcfijctebF",
+        "redcap_label": "Movel",
+        "dhis_label": "Móvel"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "mpnvI9WkX55",
+        "redcap_label": "Temporario",
+        "dhis_label": "Temporário/Campanha"
+    }
+]

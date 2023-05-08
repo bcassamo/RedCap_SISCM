@@ -1,0 +1,26 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "Solteiro(a)",
+        "redcap_label": "Solteiro",
+        "dhis_label": "Solteiro(a)"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "Casado(a)",
+        "redcap_label": "Casado",
+        "dhis_label": "Casado(a)"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "WINDOWER",
+        "redcap_label": "Viuvo",
+        "dhis_label": "Viúvo(a)"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "Divorciado(a)",
+        "redcap_label": "Divorciado",
+        "dhis_label": "Divorciado(a)"
+    }
+]

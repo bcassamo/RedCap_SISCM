@@ -1,0 +1,20 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "bxQXNEh0c7w",
+        "redcap_label": "Negativo",
+        "dhis_label": "Negativo"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "bxQXNEh0c7w",
+        "redcap_label": "Positivo",
+        "dhis_label": "Positivo"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "bxQXNEh0c7w",
+        "redcap_label": "Indeterminado",
+        "dhis_label": "Indeterminado"
+    }
+]

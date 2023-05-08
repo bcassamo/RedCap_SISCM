@@ -1,0 +1,80 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "ug7MNiUTzFp",
+        "redcap_label": "Pessoal de Saude",
+        "dhis_label": "Pessoal de Saúde"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "SSEKlFmTg9H",
+        "redcap_label": "Activista/Conselheiro Comunitario",
+        "dhis_label": "Activista/Conselheiro Comunitário"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "juBEONJxdPu",
+        "redcap_label": "Lider Comunitario",
+        "dhis_label": "Líder Comunitário"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "efEchpAIXgm",
+        "redcap_label": "Parceira",
+        "dhis_label": "Parceira"
+    },
+    {
+        "redcap_value":"5",
+        "dhis_value": "lJwdSAAB7L9",
+        "redcap_label": "Amigo",
+        "dhis_label": "Amigo"
+    },
+    {
+        "redcap_value":"6",
+        "dhis_value": "X6ETEKllUTd",
+        "redcap_label": "Familiar",
+        "dhis_label": "Familiar"
+    },
+    {
+        "redcap_value":"7",
+        "dhis_value": "UjoXozJymlc",
+        "redcap_label": "Material IEC",
+        "dhis_label": "Material de IEC"
+    },
+    {
+        "redcap_value":"8",
+        "dhis_value": "NcWQEzVjm8r",
+        "redcap_label": "Painel Publicitario",
+        "dhis_label": "Painel Publicitário"
+    },
+    {
+        "redcap_value":"9",
+        "dhis_value": "x0GReWCdVjt",
+        "redcap_label": "Televisao",
+        "dhis_label": "Televisão"
+    },
+    {
+        "redcap_value":"10",
+        "dhis_value": "VyNQiSuPkzI",
+        "redcap_label": "Radio",
+        "dhis_label": "Rádio"
+    },
+    {
+        "redcap_value":"11",
+        "dhis_value": "db7np9Kb34Q",
+        "redcap_label": "Linha verde",
+        "dhis_label": "Linha Verde"
+    },
+    {
+        "redcap_value":"12",
+        "dhis_value": "B1Bt9dvqxtR",
+        "redcap_label": "Outra",
+        "dhis_label": "Outra",
+        "outra": {
+            "redcap_value": "outra",
+            "dhis_value": "LqTU7CIXdgC",
+            "redcap_label": "Outra",
+            "dhis_label": "Especifique"
+        }
+    }
+]

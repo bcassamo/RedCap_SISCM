@@ -1,0 +1,14 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "SN10zJAn5KJ",
+        "redcap_label": "Sim",
+        "dhis_label": "Sim"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "SN10zJAn5KJ",
+        "redcap_label": "Nao",
+        "dhis_label": "Não"
+    }
+]

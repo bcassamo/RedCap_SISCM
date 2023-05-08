@@ -1,0 +1,50 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "r5IsyFTdtb0",
+        "redcap_label": "Casa",
+        "dhis_label": "Em Casa"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "tSrJ96zzOE2",
+        "redcap_label": "Unidade Sanitária",
+        "dhis_label": "Unidade Sanitária"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "Ps0zCUZq1H1",
+        "redcap_label": "Escola",
+        "dhis_label": "Escola"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "D0Lkljy2JnQ",
+        "redcap_label": "Local de Trabalho",
+        "dhis_label": "Local de Trabalho"
+    },
+    {
+        "redcap_value":"5",
+        "dhis_value": "EHtTxBfAFec",
+        "redcap_label": "Mercados",
+        "dhis_label": "Mercados"
+    },
+    {
+        "redcap_value":"6",
+        "dhis_value": "gu043kg8ZVB",
+        "redcap_label": "Instituição Religiosa",
+        "dhis_label": "Instituição Religiosa"
+    },
+    {
+        "redcap_value":"7",
+        "dhis_value": "vRicuCuihm5",
+        "redcap_label": "Campanha Promocional (Concerto musical, teatro)",
+        "dhis_label": "Campanha promocional (Concerto musical, teatro)"
+    },
+    {
+        "redcap_value":"8",
+        "dhis_value": "f4edDKGsRp0",
+        "redcap_label": "Outros locais",
+        "dhis_label": "Outros locais"
+    }
+]

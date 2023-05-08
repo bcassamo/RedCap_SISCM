@@ -1,0 +1,44 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "tAl7TQNB4Wi",
+        "redcap_label": "Pessoal de Saude",
+        "dhis_label": "Pessoal de Saúde"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "JoEYpUdk4gg",
+        "redcap_label": "Activista/Conselheiro Comunitario",
+        "dhis_label": "Activista/Conselheiro Comunitário"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "Y89fpqty3r6",
+        "redcap_label": "Lider Comunitario",
+        "dhis_label": "Líder Comunitário"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "U0namAuuXXg",
+        "redcap_label": "Parceira",
+        "dhis_label": "Parceira"
+    },
+    {
+        "redcap_value":"5",
+        "dhis_value": "sRLxMs2y3bI",
+        "redcap_label": "Amigo",
+        "dhis_label": "Amigo"
+    },
+    {
+        "redcap_value":"6",
+        "dhis_value": "NPuhCRk6vvS",
+        "redcap_label": "Familiar",
+        "dhis_label": "Familiar"
+    },
+    {
+        "redcap_value":"7",
+        "dhis_value": "EN4zY6ziNA4",
+        "redcap_label": "Outro",
+        "dhis_label": "Outra"
+    }
+]

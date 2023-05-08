@@ -1,0 +1,32 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "mEtEdhg056A",
+        "redcap_label": "Directo",
+        "dhis_label": "Directo"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "oKoJJyeznt3",
+        "redcap_label": "UATS",
+        "dhis_label": "UATS"
+    },
+    {
+        "redcap_value":"3",
+        "dhis_value": "mkouK3wVxA3",
+        "redcap_label": "Consulta externa/triagem",
+        "dhis_label": "Consulta Externa/Triagem"
+    },
+    {
+        "redcap_value":"4",
+        "dhis_value": "Z4nnz4i1q9e",
+        "redcap_label": "Outro (Por favor, especifique)",
+        "dhis_label": "Outra",
+        "outroPontoDeEntrada": {
+            "redcap_value":"outro_ponto_de_entrada",
+            "dhis_value": "ca3oKGYF3nm",
+            "redcap_label": "Outro Ponto de Entrada",
+            "dhis_label": "Por favor, Especifique"
+        }
+    }
+]

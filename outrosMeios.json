@@ -1,0 +1,14 @@
+[
+    {
+        "redcap_value":"1",
+        "dhis_value": "Lme9PXX2cpv",
+        "redcap_label": "Disponibilidade de Transporte ao Utente",
+        "dhis_label": "Disponibilidade de Transporte ao Utente"
+    },
+    {
+        "redcap_value":"2",
+        "dhis_value": "q4GtzNC01PQ",
+        "redcap_label": "Ajuste do horário do funcionamento da unidade de circuncisão",
+        "dhis_label": "Ajuste do horário do funcionamento da unidade de circuncisão"
+    }
+]
